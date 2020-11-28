@@ -1,0 +1,5 @@
+## [D]: how is the eulers path for more functionally complex circuits .??is it done manuallyy??
+### [A]: As long as we have duality principle, euler's path works well. For other complex IP's 
+which are multi-height and non-dual, ALIGN is one of the open-source tools which is trying 
+to automatically convert circuit to layout, but manual intervention is still needed, and so 
+its called custom layout.
